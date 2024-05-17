@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/denny/STM32CubeIDE/workspace_1.13.1/blinker/Core/Src",
+      "program": "/Users/denny/STM32CubeIDE/workspace_1.13.1/blinker/Core/Src/build/Debug/outDebug"
+    }
+  ]
+}

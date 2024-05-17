@@ -1,0 +1,8 @@
+../Core/Src/blinker_led.c:12:6:LED_Init	1
+../Core/Src/blinker_led.c:93:6:LED_On	7
+../Core/Src/blinker_led.c:152:6:LED_Off	7
+../Core/Src/blinker_led.c:203:6:LED_Toggle	19
+../Core/Src/blinker_led.c:290:6:LED_AlternateColour	4
+../Core/Src/blinker_led.c:318:9:Colour_Status	22
+../Core/Src/blinker_led.c:364:6:LED_BothOn	6
+../Core/Src/blinker_led.c:401:6:LED_BothOff	1
